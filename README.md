@@ -162,6 +162,16 @@ Grateful to the **Qiskit** community for the foundations that make hybrid quantu
 
 ---
 
+## Authors and contributors
+
+- [Ali Akbar Kiaei](https://github.com/a-kiaei) — architecture,
+  implementation, packaging, testing infrastructure, CI, and release
+  engineering
+- [Mahnaz Bush](https://github.com/Mahnaz-Bush) — research validation,
+  scientific review, use-case design, and documentation
+- [Raha Aghaei](https://github.com/raha-aghaei-ai) — example validation,
+  reproducibility testing, benchmarking, quality assurance, and issue triage
+
 ## QAI-brain Research Collection
 
 This repository is part of the [QAI-brain](https://github.com/QAI-brain) open research and software collection. Browse the [central Quantum AI paper index](https://github.com/QAI-brain/QAI-Papers) for related topics and repositories.
