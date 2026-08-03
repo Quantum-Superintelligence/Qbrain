@@ -159,3 +159,9 @@ If you use Qbrian in academic work:
 ## Acknowledgments
 
 Grateful to the **Qiskit** community for the foundations that make hybrid quantum research accessible.
+
+---
+
+## QAI-brain Research Collection
+
+This repository is part of the [QAI-brain](https://github.com/QAI-brain) open research and software collection. Browse the [central Quantum AI paper index](https://github.com/QAI-brain/QAI-Papers) for related topics and repositories.
